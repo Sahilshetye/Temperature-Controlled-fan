@@ -1,0 +1,1 @@
+The AVR Code is used alonog with the ATmel IDE and ATMEGA 16
